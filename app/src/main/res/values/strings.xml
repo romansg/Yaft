@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yaft</string>
+    <string name="facebook_app_id">2253164131581951</string>
+    <string name="etiqueta_token_sesion">Token de sesión</string>
+    <string name="etiqueta_usuario_id">ID de  usuario</string>
+    <string name="boton_compartir_imagen">Compartir una imagen</string>
+    <string name="boton_compartir">Compartir</string>
+    <string name="etiqueta__seleccionar">Selecciona una foto</string>
+</resources>
